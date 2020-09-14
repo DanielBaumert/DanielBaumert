@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I'm Daniel a full stack Win-Doof developer 😄 
+---
+![github stats](https://github-readme-stats.vercel.app/api?username=facebamm&show_icons=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facebamm&layout=compact)
 
 <!--
 **facebamm/facebamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
