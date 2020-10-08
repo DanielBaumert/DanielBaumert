@@ -2,9 +2,10 @@
 
 I'm Daniel a hobby developer with a lot love for low-lvl-api 😄 
 ---
-![github stats](https://github-readme-stats.vercel.app/api?username=facebamm&show_icons=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facebamm&layout=compact)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=facebamm&show_icons=true"/>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facebamm&layout=compact"/>
+</div>
 <!--
 **facebamm/facebamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
